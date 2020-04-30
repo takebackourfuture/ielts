@@ -1,7 +1,7 @@
 ## IELTS 8
 ### Task 1 Writing Task 1
 
-![ielts_8_1_1](link-to-image)
+![ielts_8_1_1](https://raw.githubusercontent.com/takebackourfuture/ielts/master/Writing/image/Screen%20Shot%202020-04-30%20at%206.08.27%20AM.png)
 
 An example of a very good answer:
 
